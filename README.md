@@ -1,0 +1,2 @@
+# commodity_management_system
+吉林大学软件学院2018级课程设计作业，一个管理商品的后台
